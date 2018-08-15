@@ -1,0 +1,83 @@
+
+ship.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+01
+  rotate: false
+  xy: 2, 1270
+  size: 600, 315
+  orig: 600, 315
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 953
+  size: 600, 315
+  orig: 600, 315
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 604, 1270
+  size: 600, 315
+  orig: 600, 315
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 2, 636
+  size: 600, 315
+  orig: 600, 315
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 604, 953
+  size: 600, 315
+  orig: 600, 315
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 1206, 1270
+  size: 600, 315
+  orig: 600, 315
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 2, 319
+  size: 600, 315
+  orig: 600, 315
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 604, 636
+  size: 600, 315
+  orig: 600, 315
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 1206, 953
+  size: 600, 315
+  orig: 600, 315
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 2
+  size: 600, 315
+  orig: 600, 315
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 604, 319
+  size: 600, 315
+  orig: 600, 315
+  offset: 0, 0
+  index: -1

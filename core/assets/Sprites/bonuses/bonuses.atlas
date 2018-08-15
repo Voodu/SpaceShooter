@@ -1,0 +1,27 @@
+
+bonuses.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+firerate
+  rotate: false
+  xy: 2, 2
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+newgun
+  rotate: false
+  xy: 127, 2
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+speed
+  rotate: false
+  xy: 252, 2
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+asteroid.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+astr
+  rotate: false
+  xy: 2, 2
+  size: 690, 525
+  orig: 690, 525
+  offset: 0, 0
+  index: -1
